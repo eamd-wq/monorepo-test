@@ -6,7 +6,7 @@
     "module": "esnext",
     "moduleResolution": "node",
     "paths": {
-      "@element-plus/*": ["packages/*"]
+      "@packages/*": ["packages/*"]
     },
     "resolveJsonModule": true,
     "types": [],
